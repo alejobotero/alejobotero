@@ -1,8 +1,8 @@
 ## Hi there 👋
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 <!--
 **alejobotero/alejobotero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

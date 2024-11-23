@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Alejandro and I am a Full-stack Software Engineer in progress. I'm currently learning React by building applications like my own web site & my Uni capstone project, Strayfinder.
+Hello! My name is Alejandro and I am a Full-stack Software Engineer in progress. 
 
 
 ## 🌐 Socials:

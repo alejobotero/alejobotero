@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello! My name is Alejandro and I am a Full-stack Software Engineer in progress. 
+# 🙋‍♂️ About Me:
+Hello! My name is Alejandro and I am a Full-stack Software 
 
 
 ## 🌐 Socials:

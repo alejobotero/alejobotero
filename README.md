@@ -1,5 +1,5 @@
 # 🙋‍♂️ About Me:
-"Turning coffee ☕ into code 💻 with a sprinkle of Object-Oriented magic. Fluent in DRY principles, debugging chaos, and writing tests (because future me deserves nice things). Always shipping clean code, scalable solutions, and good vibes. Let’s build something awesome! 🚀"
+Turning coffee ☕ into code 💻 with a sprinkle of Object-Oriented magic. Fluent in DRY principles, debugging chaos, and writing tests (because future me deserves nice things). Always shipping clean code, scalable solutions, and good vibes. Let’s build something awesome! 🚀
 
 
 

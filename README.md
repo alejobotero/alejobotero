@@ -1,5 +1,7 @@
 # 🙋‍♂️ About Me:
-Turning coffee ☕ into code 💻 with a sprinkle of Object-Oriented magic. Fluent in DRY principles, debugging chaos, and writing tests (because future me deserves nice things). Always shipping clean code, scalable solutions, and good vibes. Let’s build something awesome! 🚀
+Hey there, my name is Alejandro and I am a Fullstack Software Engineer in progress.
+
+
 
 
 
